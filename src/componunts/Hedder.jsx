@@ -19,7 +19,7 @@ const Hedder = () => {
             <div className="search">
                  <form action="">
                     <input type="text" placeholder='Search items' />
-                    <button>Search</button>
+                    <button>Searc</button>
                  </form>
             </div>
             <div className="btns">
